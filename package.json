@@ -20,7 +20,9 @@
   "homepage": "https://github.com/kirillzenzura/node.js#readme",
   "dependencies": {
     "colors": "^1.4.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "inquirer": "^8.1.1",
+    "yargs": "^17.0.1"
   },
   "devDependencies": {
     "eslint": "^7.30.0"
